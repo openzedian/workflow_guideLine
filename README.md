@@ -9,7 +9,7 @@
 在项目开发过程中，任何人都可以就项目开发过程中创建关于项目或文档的相关需求，缺陷等。
 
 * 使用`issue`功能来管理项目需求或项目缺陷
-  * 在`new issue`之后,请添加相应的`label`来表示对应`issue`的类型
+  * 在[new issue](https://github.com/openzedian/workflow_guideLine/issues)之后,请添加相应的`label`来表示对应`issue`的类型
 * 使用`wiki`功能来进行项目设计文档管理
 
 | issue类型  | 描述  | 缩写 |
