@@ -19,5 +19,6 @@
 
 
 * [创建一个issue](https://help.github.com/en/articles/creating-an-issue)
+* [为相应的issue或PR添加label](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests)
 
 
