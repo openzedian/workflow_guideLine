@@ -17,8 +17,7 @@
 |项目需求(user story)   | 项目后续需要添加的新功能 | US   |
 |项目缺陷(defect)       | 项目已有功能的不足之处   | DEF  |
 
-### 创建Defect/Feature
 
-请参考[创建一个issue](https://help.github.com/en/articles/creating-an-issue)
+* [创建一个issue](https://help.github.com/en/articles/creating-an-issue)
 
 
