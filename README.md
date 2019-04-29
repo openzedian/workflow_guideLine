@@ -19,9 +19,9 @@
 |项目需求(user story)   | 项目后续需要添加的新功能 | US   |
 |项目缺陷(defect)       | 项目已有功能的不足之处   | DEF  |
 
-### 创建issue流程
-* [创建一个issue](https://help.github.com/en/articles/creating-an-issue)
-* [为相应的issue或PR添加label](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests)
+* 创建issue流程
+  1. [创建一个issue](https://help.github.com/en/articles/creating-an-issue)
+  2. [为相应的issue或PR添加label](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests)
 
 ## 代码管理
 
