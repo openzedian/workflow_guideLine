@@ -12,10 +12,12 @@
 
 项目开发过程中，使用`github`提供的`issue`功能来进行**需求/缺陷**管理。
 
-通过[new issue](https://github.com/openzedian/workflow_guideLine/issues)之后，并添加相应的`label`标签。
+在[new issue](https://github.com/openzedian/workflow_guideLine/issues)之后，添加相应的`label`标签来表示`issue`类型。
+
+这里我们使用了github所提供的`issue模板`,详细信息参考[如何添加issue模板](https://help.github.com/en/articles/creating-issue-templates-for-your-repository)。
 
 | issue类型             | 描述                   | `label`缩写 |
-|----------------------|------------------------|------|
+|----------------------|------------------------|-------------|
 |项目需求(user story)   | 项目后续需要添加的新功能 | US   |
 |项目缺陷(defect)       | 项目已有功能的不足之处   | DEF  |
 
