@@ -4,11 +4,11 @@
 通过`github`提供的`issue`与`wiki`功能来进行需求管理，缺陷管理及文档管理。
 
 后续部分主要分为三部分:
-* 需求/缺陷管理
-* 代码管理
-* 开发文档管理
+* [需求/缺陷管理](#us_def)
+* [代码管理](#code)
+* [开发文档管理](#dev_doc)
 
-## 需求/缺陷管理
+## <a name="us_def"></a>需求/缺陷管理
 
 项目开发过程中，使用`github`提供的`issue`功能来进行**需求/缺陷**管理。
 
@@ -25,12 +25,12 @@
   1. [创建一个issue](https://help.github.com/en/articles/creating-an-issue)
   2. [为相应的issue或PR添加label](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests)
 
-## 代码管理
+## <a name="code"></a>代码管理
 
 > Note: 请不要基于master分支进行开发
 
 TODO
 
-## 开发文档管理
+## <a name="dev_doc"></a>开发文档管理
 
 项目开发过程中，使用`github`提供的`wiki`功能来进行开发文档的管理。
